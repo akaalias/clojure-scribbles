@@ -1,14 +1,16 @@
 # clojure-scribbles
 
-A Clojure library designed to ... well, that part is up to you.
+A few experiments learning Clojure, mostly recursive functions inspired by "The Little Schemer."
 
 ## Usage
 
-FIXME
+### Test
+
+All tests are written in-line using the `with-test` macro. Run with `lein test`
 
 ## License
 
-Copyright © 2017 FIXME
+Copyright © 2017 Alexis Rondeau
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
